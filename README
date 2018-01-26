@@ -1,0 +1,9 @@
+Text File to Website builder,
+This is a Java program that will convert Text in a Text file into a HTML page,User can also add Styling such as Background color, Text color, Navigation bar with links such as Home,About me,Contact Me.
+The user needs to enter the name of the text file with ".txt" extension.
+Please feel free to give any comment, advice or Report any bug.
+
+
+
+
+Created by:dev1203
