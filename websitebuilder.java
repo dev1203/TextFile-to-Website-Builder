@@ -5,7 +5,7 @@ this program will also add Navigation bar in the webpage, with logo and link to 
 */
 import java.io.*;
 import java.util.*;
-public class start
+public class websitebuilder
 {
     public static void main( String[] args )
     {
